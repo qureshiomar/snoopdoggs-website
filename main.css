@@ -1,0 +1,40 @@
+*{
+    font-family: 'Candal', sans-serif;
+    color: white;
+}
+img {
+    width: 500px;
+    height:500px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 200px;
+}
+body {
+    background-color: #009589;
+    text-align: center;
+}
+h1{
+    color: white;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.projects{
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.item{
+    display: inline-block;
+    padding: 80px 130px 80px 130px;
+    width: 175px;
+    background-color: #66E1B4;
+}
+
+.fa {
+    margin-right: 25px;
+    margin-left: 25px;
+}
